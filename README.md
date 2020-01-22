@@ -4,7 +4,6 @@
 * [HCM Integration Patterns]
 * [Subscription Management]
 * [Reference]
-* [Foundation Tutorials]
 
 [ERP Integration Patterns]: /ERP-Integration-Patterns
 [HCM Integration Patterns]: /HCM-Integration-Patterns
